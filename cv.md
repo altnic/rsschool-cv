@@ -33,16 +33,18 @@ I believe in continuous learning, which improves my programming skills more and 
 
 #### Skills
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - ReactJS
 - Flexbox
 - CSS Grid
 - SASS/SCSS
 - BEM
+- Nunjucks
 - Cross-browser layout
 - Gulp
+- Webpack
 
 #### Code examples
 
